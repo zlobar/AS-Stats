@@ -3223,7 +3223,7 @@
 3252	FBRX-AS	Fiberax Networking&Cloud LTD,GB	GB
 3253	OJSC	_Vimpelcom_,RU	RU
 3254	LUCKYNET	Lucky Net Ltd,UA	UA
-3255	UARNET-AS	UARNet,State Enterprise Scientific and Telecommunication Centre _Ukrainian Academic and Research Network_ of the Institute for Condensed Matter Physics of the National Academy of Science of Ukraine,UA	UA
+3255	UARNET-AS	LLC EKSINTECH,UA	UA
 3256	UNSPECIFIED	Renater,FR	FR
 3257	GTT-BACKBONE	GTT-BACKBONE - GTT Communications Inc.,US	US
 3258	MCLAUT-SMELA	LLC _McLaut-Invest_,UA	UA
@@ -41181,7 +41181,7 @@
 43130	NEWCOMMNET-AS	Novye Kommunikatsii Ltd.,UA	UA
 43131	KAY-NET	Kay Net UK Ltd,GB	GB
 43132	KBT-AS	PJSC Rostelecom,RU	RU
-43133	PRIMARY-NETWORK	PRIMARY NETWORK LLC,UA	UA
+43133	Cosmonova-Broadcast-AS	Cosmonova Broadcast LLC,UA	UA
 43134	ADNEXT	ADNEXT,BG	BG
 43135	EIRIB	Moavenate rasaneh majazi seda va sima,IR	IR
 43136	INFOTRUST-NET	NTT Com Security (Switzerland) AG,CH	CH
