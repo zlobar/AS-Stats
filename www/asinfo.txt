@@ -8484,7 +8484,7 @@
 8768	UNSPECIFIED	Verizon Nederland B.V.,IT	IT
 8769	DEVINIX	Devinix Solutions AB,SE	SE
 8771	YUNET-AS	YUnet International d.o.o.,RS	RS
-8772	RIDER	PP Legal center _Rider_,UA	UA
+8772	NLineLLC	NetAssist LLC,UA	UA
 8773	AS8773	OJSC _Vimpelcom_,RU	RU
 8774	ETYPE	OOO Kompaniya Etype,RU	RU
 8775	ICMM	Institute of continuous media mechanics of the Ural branch of the Russian Academy of Science,RU	RU
@@ -8671,7 +8671,7 @@
 9006	GEPSPD-AS	ZAO _Giproenergoprom_,RU	RU
 9007	DUF-AS	Dumrath & Fassnacht KG (GmbH & Co.),DE	DE
 9008	AS9008	Visual Online S.A.,LU	LU
-9009	M247	M247 Ltd,GB	GB
+9009	M247	M247 Europe SRL,RO	RO
 9011	UNSPECIFIED	Mipex.net,GB	EU
 9014	CEFAS	CEFAS,GB	GB
 9015	UPC	Romania SRL,RO	RO
@@ -20318,7 +20318,7 @@
 21339	CONTINGENCYNETWORKS	Contingency Networks Ltd,GB	GB
 21341	SINET-AS	Soroush Rasanheh Company Ltd,IR	IR
 21342	AKAMAI-ASN2	Akamai International B.V.,EU	EU
-21343	ALLIED	MIROHOST/INAME,_Allied Standart Limited_ LLC,UA	UA
+21343	ALLIED	Internet Invest, Ltd. (Imena/Mirohost),US	US
 21344	INTELIGO	Inteligo Financial Services S.A.,PL	PL
 21345	SYMANTEC-EU	MessageLabs Limited,GB	GB
 21346	VISTORM-AS	Vistorm Limited,GB	GB
@@ -27557,7 +27557,7 @@
 28913	CADBURY-EGYPT-AS,EG	CADBURY-EGYPT-AS,EG	EG
 28914	WIRENINE-AS	Cloud9 Communications Ltd,GB	GB
 28916	ILO-NET-AS	International Labour Organization,CH	CH
-28917	FIORD-AS	LLC _TRC FIORD_,RU	RU
+28917	Fiord-AS	Fiord Networks, UAB,LT	LT
 28918	DETDSRZ4	Fujitsu TDS GmbH,DE	DE
 28919	STWKUFSTEIN-AS	Stadtwerke Kufstein GmbH,AT	AT
 28920	CALL27-AS	Call27 Limited,GB	GB
@@ -31787,7 +31787,7 @@
 33435	COMVERSE-WKF	Comverse, Inc.,US	US
 33436	PARTNER-FUND-MANAGEMENT	Partner Fund Management, L.P.,US	US
 33437	HOTNIC	Hotnic LLC,US	US
-33438	HIGHWINDS2	Highwinds Network Group, Inc.,US	US
+33438	STACKPATH	StackPath, LLC.,US	US
 33439	FZWL-NYC1LIB	Flemming, Zulack & Williamson, LLP,US	US
 33440	WEBRULON-NETWORK	webRulon, LLC,US	US
 33441	WIZTEL-ASN	Wiztel Inc.,CA	CA
@@ -77244,7 +77244,7 @@
 199521	FK-PULS-AS	OOO FK PULS,RU	RU
 199522	TEDAS-AS	Tedas BV,NL	NL
 199523	EMCF-AS	EUROPEAN MULTILATERAL CLEARING FACILITY N.V.,NL	NL
-199524	WGI	WARGAMING,G-Core Labs S.A.,AT	AT
+199524	GCORE	G-Core Labs S.A. (Wargaming),LU	LU
 199526	ALSHAYA-AS	Mohammed Hamoud Alshaya Co. W.L.L,KW	KW
 199527	BITE-LT-AS	UAB _Bite Lietuva_,LT	LT
 199528	ALCINE-AS	Allocine S.A.,FR	FR
