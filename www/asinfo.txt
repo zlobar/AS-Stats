@@ -58589,7 +58589,7 @@
 60809	ASN-SMPRASZKA	Spoldzielnia Mieszkaniowa w Praszce,PL	PL
 60810	ATMEL	Boguslaw Dominik trading as ATMEL,PL	PL
 60811	SAIPAYADAK-AS	Saipa Yadak Co. PLC,IR	IR
-60812	FINPROMBANK-AS	JSCB _FINPROMBANK_ (OJSC),RU	RU
+60812	IXP-1-IX-UA	"1-IX" LLC,UA	UA
 60813	BSABADELL	Banco Sabadell,ES	ES
 60814	PROTEZIONECIVILE-AS	Dipartimento della Protezione Civile,IT	IT
 60815	DATANET-TELECOM	Data Net Company for Communications Limited,IQ	IQ
